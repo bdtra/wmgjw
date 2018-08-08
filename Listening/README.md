@@ -1,7 +1,7 @@
 # Listening
 
 ## Did Jay analyze the original?
-yes
+Yes
 
 ## Did Brandon analyze the original?
-no
+Yes
